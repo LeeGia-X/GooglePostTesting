@@ -74,8 +74,7 @@ public class TestGmailPost {
     //browser closing
     @AfterTest
     public void tearDown() {
-        //Close the browser
-        //if (driver != null)
-        //    driver.quit();
+        if (driver != null)
+            driver.quit();
     }
 }
