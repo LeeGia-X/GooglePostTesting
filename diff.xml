@@ -25,7 +25,11 @@
         <PlaceSettings />
       </entry>
       <entry key="TestsFiledAssertions">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="ENABLE_SYNC_SCROLL" value="false" />
+          <option name="SHOW_WHITESPACES" value="true" />
+          <option name="SHOW_INDENT_LINES" value="true" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
